@@ -42,5 +42,7 @@
 ###실행영상###
 https://www.youtube.com/watch?v=ijhkgouMSdY
 
-[aiaiaiaiaiaijunsang.pptx](https://github.com/js031205/js031205/files/10214310/aiaiaiaiaiaijunsang.pptx)
+
+[ai제어실습 10조.pptx](https://github.com/js031205/js031205/files/10214428/ai.10.pptx)
+
 
