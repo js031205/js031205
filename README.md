@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=창원폴리텍%20스마트팩토리과%20A반&fontSize=50)
 
 
+[ai제어실습 최종발표.pptx](https://github.com/js031205/js031205/files/10214261/ai.pptx)
 
 
 
