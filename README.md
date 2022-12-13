@@ -42,4 +42,5 @@
 ###실행영상###
 https://www.youtube.com/watch?v=ijhkgouMSdY
 
-[ai제어실습 최종발표.pptx](https://github.com/js031205/js031205/files/10214261/ai.pptx)
+[aiaiaiaiaiaijunsang.pptx](https://github.com/js031205/js031205/files/10214310/aiaiaiaiaiaijunsang.pptx)
+
