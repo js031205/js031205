@@ -37,3 +37,6 @@
 | ord(x) |  단일 문자를 정수 값으로 변환 합니다. |  
 | hex(x) |  정수를 16진수 문자열로 변환 합니다. | 
 | oct(x) |  정수를 8진수 문자열로 변환 합니다. | 
+
+###실행영상###
+https://www.youtube.com/watch?v=ijhkgouMSdY
